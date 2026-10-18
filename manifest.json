@@ -1,0 +1,15 @@
+{
+  "name": "Tik Banner",
+  "short_name": "TikBanner",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eWZrbmR3OGZ0cGZsNnd5bW1uMmdudTFxNDhhZXQzbGdpNmZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif",
+      "sizes": "512x512",
+      "type": "image/gif"
+    }
+  ]
+}
