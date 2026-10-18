@@ -7,9 +7,9 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eWZrbmR3OGZ0cGZsNnd5bW1uMmdudTFxNDhhZXQzbGdpNmZldCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif",
-      "sizes": "512x512",
-      "type": "image/gif"
+      "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=192&h=192&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
     }
   ]
 }
